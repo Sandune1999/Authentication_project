@@ -3,21 +3,18 @@ In this web-application you can write your secret without revealing your Identit
 Here you have to register and that can be done either by typing your Id or directly using google authentication.
 
 
-#Tech-Stack
-Frontend:-
-   EJS
-   CSS
-   
-Backend:-
-   Server environment:-
+#Tech-Stack---
+1.)Frontend:-
+   a.)EJS
+   b.)CSS
+2.)Backend:-
+   a.)Server environment:-
       Node.js
       Express.js
-
-   For database:-
+  b.) For database:-
       MongoDb
       Mongoose
-  
-   For Authentication:-
+  c.) For Authentication:-
       Locally authentication done by Passport.js for adding cookies and session.
       Aouth 2.0 (Google Authentication) for 3rd party authentication.!
       
