@@ -24,7 +24,7 @@ Backend:-
       
 
 Some of its glance...
-[1](https://user-images.githubusercontent.com/81626066/175048648-922d1974-41e1-4dca-98b4-f7ec3ddf58b5.png)
+![1](https://user-images.githubusercontent.com/81626066/175048648-922d1974-41e1-4dca-98b4-f7ec3ddf58b5.png)
 
 ![2](https://user-images.githubusercontent.com/81626066/175048954-f5853fc2-8531-4d58-b0e5-a455f71c6fce.png)
 
