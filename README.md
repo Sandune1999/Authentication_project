@@ -7,6 +7,7 @@ Here you have to register and that can be done either by typing your Id or direc
 1.)Frontend:-
    a.)EJS
    b.)CSS
+********************************
 2.)Backend:-
    a.)Server environment:-
       Node.js
