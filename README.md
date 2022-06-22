@@ -4,19 +4,30 @@ Here you have to register and that can be done either by typing your Id or direc
 
 
 #Tech-Stack---
-1.)Frontend:-
-   a.)EJS
+1.)Frontend:- 
+
+   a.)EJS 
+   
    b.)CSS
 ********************************
-2.)Backend:-
+2.)Backend:- 
+
    a.)Server environment:-
+   
       Node.js
+      
       Express.js
+      
   b.) For database:-
+  
       MongoDb
+      
       Mongoose
+      
   c.) For Authentication:-
+  
       Locally authentication done by Passport.js for adding cookies and session.
+      
       Aouth 2.0 (Google Authentication) for 3rd party authentication.!
       
       
