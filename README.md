@@ -1,4 +1,4 @@
-# Secret_project
+# Secret_Keeper
 In this web-application you can write your secret without revealing your Identity.
 Here you have to register and that can be done either by typing your Id or directly using google authentication.
 
